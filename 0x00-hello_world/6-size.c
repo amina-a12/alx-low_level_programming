@@ -10,6 +10,7 @@ int main(void)
 	printft("Size of an int: %d byte(s)", sizeof(int)    ));
 	 printft("Size of a long int: %d byte(s)", sizeof(long int)    ));
 	  printft("Size of a long long int: %d byte(s)", sizeof(long long int)    ));
-	   printft("Size of a float: %d byte(s)", sizeof(float)    ));
-    return (0);
+	   printft("Size of a float: %d byte(s)", sizeof(float)    ))
+;
+return (0);
 }
